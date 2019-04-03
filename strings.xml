@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Library</string>
+
+    <string-array name="books_array">
+        <item>CN</item>
+        <item>DSA</item>
+        <item>DAA</item>
+        <item>ASN</item>
+        <item>IS</item>
+        <item>SS</item>
+        <item>FCS</item>
+
+    </string-array>
+</resources>
